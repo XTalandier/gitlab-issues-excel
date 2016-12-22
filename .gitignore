@@ -1,0 +1,5 @@
+vendor
+*.xlsx
+.idea
+.DS_Store
+conf.php

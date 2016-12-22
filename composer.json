@@ -1,0 +1,12 @@
+{
+    "name": "xavier/issueslab",
+    "authors": [
+        {
+            "name": "xTalandier",
+            "email": "projet@nablaware.fr"
+        }
+    ],
+    "require": {
+        "phpoffice/phpexcel": "^1.8"
+    }
+}
